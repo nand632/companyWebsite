@@ -4534,9 +4534,9 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   top: 0;
   content: "";
   width: 103%;
-  height: 21%;
+  height: 5%;
   z-index: -1;
-  transform: scale(1.6) rotate(-7deg);
+  transform: scale(3) rotate(2deg);
 }
 .faq-wrap-contact-us .faq-sec-bg {
   position: absolute;
