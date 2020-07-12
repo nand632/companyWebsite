@@ -1,12 +1,5 @@
 @charset "UTF-8";
 /*
-Template: VRLanding - Virtual Reality HTML Template
-Author: Keendevs
-Author URI: https://keendevs.com/
-Description: Virtual Reality HTML Landing Page.
-Version: 1.0
-*/
-/*
 =================================
 |***    Table of contents:   ***|
 =================================
@@ -3706,7 +3699,7 @@ header .main-menu .menu-style-four ul li:hover .submenu {
   border-style: solid;
   border-width: 1px;
   border-color: #eaeaea;
-  border-radius: 50%;
+  border-radius: 100%;
   background-color: black;
   width: 95px;
   height: 95px;
@@ -5165,11 +5158,11 @@ MEDIA QUERIES
   
   .main{ 
     width: 100%; 
-    height: 100vh;
+    height: 100%;
    }
    .card{
-      width: 500px;
-       height: 500px;
+      width: 800px;
+       height: 490px;
         position: relative; 
         font-size: 2rem;
          color: white; 
