@@ -1864,7 +1864,7 @@ header .main-menu .menu-style-three ul li a:hover {
 header .main-menu .menu-style-three ul li .submenu {
   top: 100%;
   opacity: 0;
-  left: 0;
+  /* left: 0; */
   margin: 0px;
   min-width: 195px;
   padding: 20px 0px;
