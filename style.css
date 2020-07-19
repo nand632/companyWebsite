@@ -5166,7 +5166,8 @@ MEDIA QUERIES
        height: 490px;
         position: relative; 
         font-size: 2rem;
-         color: white; 
+         color: white;
+         border: white; 
    }
    .front, .back{
       width: 100%;
